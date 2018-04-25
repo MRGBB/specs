@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GBZReformerKeysKit/Classes/*'
+  s.source_files = 'GBZReformerKeysKit/Classes/**/*'
   
   # s.resource_bundles = {
   #   'GBZReformerKeysKit' => ['GBZReformerKeysKit/Assets/*.png']
